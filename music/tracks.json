@@ -28,5 +28,23 @@
     "title": "I'm Not The Only One",
     "artist": "Sam Smith",
     "genre": "Pop"
+  },
+  {
+    "file": "Bruno Mars - Talking to the Moon.mp3",
+    "title": "Talking to the Moon",
+    "artist": "Bruno Mars",
+    "genre": "Pop"
+  },
+  {
+    "file": "Bruno Mars - Just the Way You Are.mp3",
+    "title": "Just the Way You Are",
+    "artist": "Bruno Mars",
+    "genre": "Pop"
+  },
+  {
+    "file": "Bruno Mars - It Will Rain.mp3",
+    "title": "It Will Rain",
+    "artist": "Bruno Mars",
+    "genre": "Pop"
   }
 ]
