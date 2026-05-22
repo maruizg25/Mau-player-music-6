@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "file": "Alicia Keys - If I Ain't Got You.mp3",
+    "title": "If I Ain't Got You",
+    "artist": "Alicia Keys",
+    "genre": "R&B"
+  },
+  {
+    "file": "Bruno Mars - When I Was Your Man.mp3",
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "genre": "Pop"
+  },
+  {
+    "file": "Adele - Love In The Dark.mp3",
+    "title": "Love In The Dark",
+    "artist": "Adele",
+    "genre": "Pop"
+  },
+  {
+    "file": "Olivia Rodrigo - happier.mp3",
+    "title": "happier",
+    "artist": "Olivia Rodrigo",
+    "genre": "Pop"
+  },
+  {
+    "file": "Sam Smith - I'm Not The Only One.mp3",
+    "title": "I'm Not The Only One",
+    "artist": "Sam Smith",
+    "genre": "Pop"
+  }
+]
