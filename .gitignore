@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.tmp
+.idea/
+.vscode/
+.claude/
+node_modules/
+.env
+.env.local
+
+music/*.part
+music/*.ytdl
+music/*.webm
+music/*.m4a.part
